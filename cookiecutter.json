@@ -1,0 +1,15 @@
+{
+    "project_name": "Ansible Project",
+    "ansible_config": {
+        "inventory": "inventory",
+        "host_key_checking": false,
+        "stdout_callback": "default",
+        "gathering": "smart",
+        "roles_path": "",
+        "callback_whitelist": "",
+        "become": true,
+        "become_method": "sudo",
+        "become_user": "root",
+        "forks": 20
+    }
+}
