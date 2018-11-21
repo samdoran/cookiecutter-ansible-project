@@ -4,5 +4,7 @@ This is a [cookiecutter project] for creating Ansible projects. It contains a ba
 
 To use this, first install `cookiecutter`, then run `cookiecutter gh:samdoran/ansible-project-cookiecutter`.
 
-[cookie cutter project]: https://github.com/audreyr/cookiecutter
+To use the default settings, run `cookiecutter --no-input gh:samdoran/ansible-project-cookiecutter`.
+
+[cookiecutter project]: https://github.com/audreyr/cookiecutter
 [AnsibleTower]: https://www.ansible.com/products/tower
